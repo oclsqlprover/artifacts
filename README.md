@@ -1,4 +1,4 @@
-# Artifacts Submission for Manuscript 54 [MODELS22]
+# Artifacts Submission for Manuscript 
 
 **Paper**: "Proving correctness for SQL implementations of OCL constraints"
 
